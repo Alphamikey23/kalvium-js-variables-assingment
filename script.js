@@ -31,5 +31,5 @@ console.log(thirdQuestion);
 let fourthQuestion="This is the fourth debugging question, if you fix this question you will be able to see this text on your console";
 console.log(fourthQuestion);
 
-let fifthquestion="This is the fifth debugging question, if you fix this question you will be able to see this text on your console";
-console.log(fifthquestion);
+let fifthQuestion="This is the fifth debugging question, if you fix this question you will be able to see this text on your console";
+console.log(fifthQuestion);
